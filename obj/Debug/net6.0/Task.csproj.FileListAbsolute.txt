@@ -1,0 +1,15 @@
+/home/vicky/Рабочий стол/finish_work/Task/obj/Debug/net6.0/Task.csproj.AssemblyReference.cache
+/home/vicky/Рабочий стол/finish_work/Task/obj/Debug/net6.0/Task.GeneratedMSBuildEditorConfig.editorconfig
+/home/vicky/Рабочий стол/finish_work/Task/obj/Debug/net6.0/Task.AssemblyInfoInputs.cache
+/home/vicky/Рабочий стол/finish_work/Task/obj/Debug/net6.0/Task.AssemblyInfo.cs
+/home/vicky/Рабочий стол/finish_work/Task/obj/Debug/net6.0/Task.csproj.CoreCompileInputs.cache
+/home/vicky/Рабочий стол/finish_work/Task/bin/Debug/net6.0/Task
+/home/vicky/Рабочий стол/finish_work/Task/bin/Debug/net6.0/Task.deps.json
+/home/vicky/Рабочий стол/finish_work/Task/bin/Debug/net6.0/Task.runtimeconfig.json
+/home/vicky/Рабочий стол/finish_work/Task/bin/Debug/net6.0/Task.dll
+/home/vicky/Рабочий стол/finish_work/Task/bin/Debug/net6.0/Task.pdb
+/home/vicky/Рабочий стол/finish_work/Task/obj/Debug/net6.0/Task.dll
+/home/vicky/Рабочий стол/finish_work/Task/obj/Debug/net6.0/refint/Task.dll
+/home/vicky/Рабочий стол/finish_work/Task/obj/Debug/net6.0/Task.pdb
+/home/vicky/Рабочий стол/finish_work/Task/obj/Debug/net6.0/Task.genruntimeconfig.cache
+/home/vicky/Рабочий стол/finish_work/Task/obj/Debug/net6.0/ref/Task.dll
